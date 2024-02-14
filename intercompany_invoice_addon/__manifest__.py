@@ -6,7 +6,7 @@
     "website": "https://www.odoo.com",
     "license": "OEEL-1",
     "category": "Uncategorized",
-    "version": "16.0.2.0.1",
+    "version": "17.0.2.0.1",
     "depends": [
         "account",
     ],
